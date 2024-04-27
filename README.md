@@ -1,4 +1,4 @@
-# Summit Read Me
+# 🏔️ Summit Read Me
 
 This is a simple Python app that uses Tessreact from Google for optical character recognition (OCR) to read and summarize a set of images.
 
