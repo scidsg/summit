@@ -1,18 +1,20 @@
-# Summit Read Me
+# 🏔️ Summit Read Me
 
 This is a simple Python app that uses Tessreact from Google for optical character recognition (OCR) to read and summarize a set of images.
 
 ## Mac Instructions
 
-First, clone the Summit git repo:
-```
-git clone https://github.com/scidsg/summit.git && cd summit
-```
+1. First, clone the Summit git repo:
+   ```
+   git clone https://github.com/scidsg/summit.git && cd summit
+   ```
 
-Then, run the script:
-```
-chmod +x summit.sh && ./summit.sh
-```
+2. Add the images you want to summarize in the `images/` folder.
+
+3. Then, run the script:
+   ```
+   chmod +x summit.sh && ./summit.sh
+   ```
 
 ## Example Output
 
